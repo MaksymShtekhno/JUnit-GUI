@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fails>
+    <Description>initializationError(TestSammlung1): Method sumTest4() should be static</Description>
+    <Description>initializationError(TestSammlung1): Method sumTest5() should be static</Description>
+    <Description>multTest2(TestSammlung2): expected:&lt;10&gt; but was:&lt;100&gt;</Description>
+</fails>
